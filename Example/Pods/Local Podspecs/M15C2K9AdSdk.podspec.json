@@ -1,0 +1,22 @@
+{
+  "name": "M15C2K9AdSdk",
+  "version": "0.1.0",
+  "summary": "A short description of M15C2K9AdSdk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/260413992@qq.com/M15C2K9AdSdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "260413992@qq.com": "260413992@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/260413992@qq.com/M15C2K9AdSdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "M15C2K9AdSdk/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_M15C2K9AdSdk_Example {
+  umbrella header "Pods-M15C2K9AdSdk_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

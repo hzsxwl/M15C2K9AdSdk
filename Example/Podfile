@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'M15C2K9AdSdk_Example' do
+  pod 'M15C2K9AdSdk', :path => '../'
+
+  target 'M15C2K9AdSdk_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
